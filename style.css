@@ -1,0 +1,37 @@
+body {
+  background-color: #add8e6; /* light blue */
+  font-family: 'Segoe UI', Arial, sans-serif;
+}
+
+.profile-card {
+  background: #fff;
+  border: 2px solid #003366;
+  border-radius: 12px;
+  max-width: 450px;
+  margin: 100px auto;
+  padding: 2rem 1.5rem;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.07);
+  text-align: center;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+h1 {
+  font-size: 3rem;
+  margin-top: 0;
+  color: #003366; /* dark blue */
+}
+
+h2 {
+  font-size: 2rem;
+  margin-top: 1rem;
+  color: #d3d3d3; /* light grey */
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+  margin: 1rem 0 0 0;
+}
